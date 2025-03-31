@@ -22,12 +22,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-**Full Stack projects**
 
 
-<a href="https://github.com/haku2266/zarahome-e-commerce">
-   <img width="90px" height="40px"  background-color="white" src="https://lh6.googleusercontent.com/proxy/IGFpEdUryb-5z943WHNKCSV82NipNbyaDZcm_kWmohVyXk4P4Nj3OQ7iAUXswydr9s918xDqHqCIBPxC90Q7sAE" />
-</a>    
 
 
 <br/>
